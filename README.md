@@ -12,11 +12,11 @@ PROJ    : AK-MK<br>
 BINNAME : AK-MK.bin<br>
 mkdir -p ./obj.AK-MK<br>
 mkdir -p ./bin.AK-MK<br>
-make[1]: Entering directory `/home/Arkinux/AK-MK'<br>
-[Compiling ./src/hello.c]<br>
-Linking console executable: ./bin.AK-MK/AK-MK.bin<br>
+make[1]: Entering directory `/home/Arkinux/AK-MK' <br>
+[Compiling ./src/hello.c] <br>
+Linking console executable: ./bin.AK-MK/AK-MK.bin <br>
  Linking Complete! <br>
-make[1]: Leaving directory `/home/Arkinux/AK-MK'<br>
+make[1]: Leaving directory `/home/Arkinux/AK-MK' <br>
  make all done! <br>
 $ ls<br>
 bin.AK-MK  include  Makefile  obj.AK-MK  src  target.mk<br>
